@@ -1,6 +1,13 @@
 Planning Phase
 
-The planning phase involves gathering and preparing the necessary resources for the project. The Resource Group Name for this Project will be ReVMspinUpAZ, the Virtual Network name: is VNetVMspinUpAZ and the VM name will be VMspinUpAZ. Key steps include:
+The planning phase involves gathering and preparing the necessary resources for the project. 
+- The Resource Group Name: is ReVMspinUpAZ
+- The virtual Network name: is VNetVMspinUpAZ
+-  The VM name:VMspinUpAZ.
+-  Subnet Name: SubVNetVMspinUpAZ
+-  Firewall Name:  FVMspinUpAZ
+
+     Key steps include:
 
 A. Network Infrastructure Setup:
    - Create a Virtual Network (VNet) and subnet  
