@@ -1,4 +1,4 @@
-# Planning
+VM Spin-up in AZ Environment
 
 I received a request from one of our developers to set up a VM for a new project with the following requirements:
 
