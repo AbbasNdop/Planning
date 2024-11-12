@@ -25,7 +25,8 @@ C. Resource Cost Estimation:
 D. Topology Design:  
    - Create a network topology diagram for better visualization and planning
 
-    ** A: Step by Step on how to Perform the Network Infrastructure Setup:
+
+A: Step by Step Guide on how to Perform Network Infrastructure Setup.
      
  1. Creating a Resource Group
 - Name: ReVMspinUpAZ
