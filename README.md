@@ -29,3 +29,5 @@ My process follows four key phases:
 4. Backup: Schedule regular backups and create disaster recovery plans.
 
 Each phase is documented in separate folders. Feel free to review and leave any comments!
+
+https://raw.githubusercontent.com/Bongadu-Abbas/Sping-up-a-VM-in-AZ-Environment-/refs/heads/main/Planning%20Phase
