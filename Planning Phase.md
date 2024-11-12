@@ -60,7 +60,7 @@ A: Step-by-step Guide on how to Perform Network Infrastructure Setup.
   3. Click "Create" and fill in the details:
      - Resource Group: ReVMspinUpAZ
      - Name: FVMspinUpAZ
-  4. Configure the firewall settings as needed.
+  4. Configure the firewall settings as needed and Firewall policy as needed.
   5. Repeat the process for the Application Gateway.
 
  4. Configure a Network Security Group (NSG)
