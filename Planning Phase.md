@@ -74,7 +74,18 @@ A: Step-by-step Guide on how to Perform Network Infrastructure Setup.
      - Name:  NSGVMspinUpAZ.
   4. Add inbound and outbound security rules as needed.
   5. Associate the NSG with the subnet (SubVNetVMspinUpAZ).
-  6. 
+  Set Up Azure Bastion:
+
+Purpose: Provide secure and seamless RDP/SSH connectivity to the VM.
+Steps:
+In the Azure portal, go to "Create a resource."
+Search for "Bastion" and select it.
+Click "Create" and fill in the details:
+Resource Group: ReVMspinUpAZ
+Name: BAVMspinUpAZ
+Virtual Network: VNetVMspinUpAZ
+Configure the subnet for Bastion (typically named "AzureBastionSubnet").
+Click "Review + Create" and then "Create." 
 
   B. Network Configuration Confirmation:
 Here, I will
