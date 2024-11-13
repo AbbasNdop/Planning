@@ -1,6 +1,6 @@
 VM Spin-up in AZ Environment
 
-I am a Microsoft Azure and Office 365 System Administrator, responsible for managing cloud infrastructure, setting up virtual machines, and providing technical support for developers and other system admins. My role also involves ensuring security compliance and maintaining system efficiency. I typically handle requests through a ticketing system, reviewing each one to ensure all requirements are clear before proceeding.
+I am a Microsoft Azure and Office 365 System Administrator, responsible for managing cloud infrastructure, setting up virtual machines, ensuring compliance, providing access to users and technical support for developers and other system admins. My role also involves ensuring security compliance and maintaining system efficiency. I typically handle requests through a ticketing system, reviewing each one to ensure all requirements are clear before proceeding.
 
 For this project, I'll guide you through my process of setting up a VM based on a developer's request, which includes the following specifications:
 
