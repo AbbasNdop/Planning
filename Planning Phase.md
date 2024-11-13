@@ -1,8 +1,9 @@
 Planning Phase
 
 The planning phase involves gathering and preparing the necessary resources for the project. 
-- The Resource Group Name: is ReVMspinUpAZ
-- The virtual Network name: is VNetVMspinUpAZ
+Key Resources:
+- The Resource Group Name: ReVMspinUpAZ
+- The virtual Network name: VNetVMspinUpAZ
 -  The VM name: VMspinUpAZ.
 -  Subnet Name: SubVNetVMspinUpAZ
 -  Firewall Name:  FVMspinUpAZ
@@ -93,7 +94,11 @@ Here, I will,
 4. Adjust as Needed: If the costs exceed the budget, consider adjusting the resource specifications or exploring cost-saving options.
 5. Document Estimates: Keep a record of the cost estimates for future reference and budget tracking.
 
-.
+D: Topology Design:
+
+![image](https://github.com/user-attachments/assets/dfbcc48e-d0c1-4dba-91bc-1e4932ccd0ab)
+
+
 
 
 
