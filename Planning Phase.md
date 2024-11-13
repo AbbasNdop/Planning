@@ -27,6 +27,10 @@ D. Topology Design:
    - Create a network topology diagram for better visualization and planning
 
 
+
+
+
+
 A: Step-by-step Guide on how to Perform Network Infrastructure Setup.
      
  1. Creating a Resource Group
@@ -87,6 +91,10 @@ Virtual Network: VNetVMspinUpAZ
 Configure the subnet for Bastion (typically named "AzureBastionSubnet").
 Click "Review + Create" and then "Create." 
 
+
+
+
+
   B. Network Configuration Confirmation:
 Here, I will
 
@@ -94,6 +102,9 @@ Here, I will
 2. Discuss Traffic Requirements: Confirm with the developer the specific inbound and outbound traffic requirements, such as which ports need to be open (e.g., HTTP, HTTPS, RDP, etc.).
 3. Adjust Configurations: Make any necessary adjustments to the NSGs or firewall rules based on the developer's feedback.
 4. Document Changes: Keep a record of any changes made for future reference and troubleshooting.
+
+
+
 
 
 C. Resource Cost Estimation:
@@ -104,6 +115,10 @@ Here, I will,
 3. Review Costs: Compare the estimated costs with my project's budget to ensure they align.
 4. Adjust as Needed: If the costs exceed the budget, consider adjusting the resource specifications or exploring cost-saving options.
 5. Document Estimates: Keep a record of the cost estimates for future reference and budget tracking.
+
+
+
+
 
 D: Topology Design:
 
