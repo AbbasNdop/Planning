@@ -96,7 +96,7 @@ Here, I will,
 
 D: Topology Design:
 
-![image](https://github.com/user-attachments/assets/dfbcc48e-d0c1-4dba-91bc-1e4932ccd0ab)
+![image](https://github.com/user-attachments/assets/1dc8f471-8b86-4e2c-8edb-411465273e47)
 
 
 
