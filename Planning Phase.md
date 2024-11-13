@@ -84,5 +84,16 @@ Here, I will
 4. Document Changes: Keep a record of any changes made for future reference and troubleshooting.
 
 
+C. Resource Cost Estimation:
+Here, I will,
+
+1. Identify Resources: List all the resources I'll be using, such as VMs, storage, networking components, and any additional services.
+2. Use Azure Pricing Calculator: Go to the Azure Pricing Calculator and input the details of each resource to get an estimate.
+3. Review Costs: Compare the estimated costs with my project's budget to ensure they align.
+4. Adjust as Needed: If the costs exceed the budget, consider adjusting the resource specifications or exploring cost-saving options.
+5. Document Estimates: Keep a record of the cost estimates for future reference and budget tracking.
+
+.
+
 
 
