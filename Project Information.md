@@ -28,6 +28,11 @@ My process follows four key phases:
 3. Post-Deployment: Conduct testing, validate system performance, and ensure security policies are applied.  
 4. Backup: Schedule regular backups and create disaster recovery plans.
 
-Each phase is documented in separate folders. Feel free to review and leave any comments!
+Each phase is documented in separate folders. Feel free to review Starting From:
+- Planning Phase
+- Implementation Phase
+- Post Deployment Phase and
+- Dabck up
+ leave any comments after review!
 
-https://raw.githubusercontent.com/Bongadu-Abbas/Sping-up-a-VM-in-AZ-Environment-/refs/heads/main/Planning%20Phase
+
