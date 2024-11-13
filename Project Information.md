@@ -29,8 +29,7 @@ My process follows four key phases:
 4. Backup: Schedule regular backups and create disaster recovery plans.
 
 Each phase is documented in separate folders. Feel free to review Starting From:
-- Planning Phase
-- Implementation Phase
+- Planning Phase and Implementation Phase
 - Post Deployment Phase and
 - Dabck up
  leave any comments after review!
