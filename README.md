@@ -1,4 +1,4 @@
-Welcome to the Azure VM Spin-Up Project! This guide will walk you through the entire process, from initial setup to post-deployment and backup strategies. Below is an outline to help you navigate through the project documentation.
+Welcome to the Azure VM Spin-Up Project! This project aims to set up a virtual machine (VM) in Azure for development purposes. It includes creating and configuring network infrastructure, ensuring security, and implementing backup and disaster recovery plans. This guide will walk you through the entire process, from initial setup to post-deployment and backup strategies. Below is an outline to help you navigate through the project documentation.
 
  Table of Contents
 1. Project Information
