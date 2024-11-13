@@ -73,5 +73,16 @@ A: Step-by-step Guide on how to Perform Network Infrastructure Setup.
      - Name:  NSGVMspinUpAZ.
   4. Add inbound and outbound security rules as needed.
   5. Associate the NSG with the subnet (SubVNetVMspinUpAZ).
+  6. 
+
+  B. Network Configuration Confirmation:
+Here, I will
+
+1. Review Network Settings: Go over the current network settings, including the Virtual Network (VNet), subnets, and Network Security Groups (NSGs) with the developer.
+2. Discuss Traffic Requirements: Confirm with the developer the specific inbound and outbound traffic requirements, such as which ports need to be open (e.g., HTTP, HTTPS, RDP, etc.).
+3. Adjust Configurations: Make any necessary adjustments to the NSGs or firewall rules based on the developer's feedback.
+4. Document Changes: Keep a record of any changes made for future reference and troubleshooting.
+
+
 
 
