@@ -22,6 +22,6 @@ Find out how to schedule regular backups and create a robust disaster recovery p
 
 Thank you for following this guide. Your feedback and comments are greatly appreciated. If you have any questions or suggestions, please feel free to share them.
 
-Best regards,
+Thank you,
 
 Bongadu Mbiydzenyuy
